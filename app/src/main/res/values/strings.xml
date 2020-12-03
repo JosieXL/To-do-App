@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_new_task">Add new Task</string>
+    <string name="starting_screen">Starting screen</string>
+</resources>
